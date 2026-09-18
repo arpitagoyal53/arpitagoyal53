@@ -1,4 +1,4 @@
-# Hi, I'm Arpita 👋
+# Hi, I'm Arpita!
 
 I'm a Statistics student at the University of Victoria preparing for an entry-level career in data analytics.
 
