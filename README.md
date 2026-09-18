@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Arpita 👋
 
-<!--
-**arpitagoyal53/arpitagoyal53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Statistics student at the University of Victoria preparing for an entry-level career in data analytics.
 
-Here are some ideas to get you started:
+I enjoy turning raw information into clear, useful insights through data cleaning, statistical analysis, visualization, and reporting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Data analysis:** Excel, R and SQL
+- **Visualization:** ggplot2 and Excel dashboards
+- **Statistical methods:** Regression, hypothesis testing and data modelling
+- **Currently learning:** SQL and Power BI
+
+## Featured Projects
+
+I'm currently preparing three projects for my portfolio:
+
+1. Canadian Tourism Data Analysis
+2. Drug Use Modelling Using an SIR Framework
+3. Excel Data Analysis Dashboard
+
+## Connect With Me
+
+- https://www.linkedin.com/in/arpita-goyal-/
+- Based in Victoria, British Columbia
